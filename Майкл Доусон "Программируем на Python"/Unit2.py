@@ -74,10 +74,32 @@ print("\nC маленькой заменой")
 print(quote.replace("штук пять", "несколько миллионов"))
 print("\nА вот исходная цитата")
 print(quote)
-input("\n\nHaжмитe Enter. чтобы выйти . ")
+
 
 #7
 # Любимые блюда
 firstdish = input("Какое ваше первое любимое блюдо")
 seconddish = input("Какое ваше второе любимое блюдо")
-res = fi
+res = firstdish+seconddish
+print(res)
+
+#8
+# Щедрый посетитель
+
+bill = int(input("Введите сумму счета\n"))
+bill1 = bill*0.2 + bill
+bill2 = bill*0.15 + bill
+print("Сумма с 20 процентами чаевых", bill1, "c 15 процентами чаевых", bill2)
+
+#9
+#Автодиллер
+price = int(input("Введите стоимость машины"))
+fee = price*0.12
+regfee = price*0.03
+agfee = 150
+delivery = 200
+print("Окончательная цена со всеми налогами и добавочной стоимостью",price + fee +regfee + agfee + delivery)
+
+
+
+input("\n\nHaжмитe Enter. чтобы выйти . ")
