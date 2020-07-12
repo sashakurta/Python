@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac9bdd1-edbb-42c6-99c7-ef9089278541" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,28 +34,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.Unit5">
-    <configuration name="Unit1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BookTrainning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Unit6">
     <configuration name="Unit2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BookTrainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,13 +119,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unit6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BookTrainning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Unit6" />
         <item itemvalue="Python.Unit5" />
         <item itemvalue="Python.Unit4" />
         <item itemvalue="Python.Unit3" />
         <item itemvalue="Python.Unit2" />
-        <item itemvalue="Python.Unit1" />
       </list>
     </recent_temporary>
   </component>
@@ -175,25 +171,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="640" y="115" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1593536645952" />
-    <state width="693" height="275" key="GridCell.Tab.0.bottom" timestamp="1594475490140">
+    <state width="637" height="275" key="GridCell.Tab.0.bottom" timestamp="1594553649614">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="693" height="275" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594475490140" />
+    <state width="637" height="275" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594553649614" />
     <state width="1419" height="478" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593730405340" />
-    <state width="693" height="275" key="GridCell.Tab.0.center" timestamp="1594475490139">
+    <state width="637" height="275" key="GridCell.Tab.0.center" timestamp="1594553649613">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="693" height="275" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594475490139" />
+    <state width="637" height="275" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594553649613" />
     <state width="1419" height="478" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1593730405339" />
-    <state width="693" height="275" key="GridCell.Tab.0.left" timestamp="1594475490138">
+    <state width="637" height="275" key="GridCell.Tab.0.left" timestamp="1594553649612">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="693" height="275" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594475490138" />
+    <state width="637" height="275" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594553649612" />
     <state width="1419" height="478" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1593730405339" />
-    <state width="693" height="275" key="GridCell.Tab.0.right" timestamp="1594475490139">
+    <state width="637" height="275" key="GridCell.Tab.0.right" timestamp="1594553649614">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="693" height="275" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594475490139" />
+    <state width="637" height="275" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594553649614" />
     <state width="1419" height="478" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1593730405340" />
     <state width="618" height="314" key="GridCell.Tab.1.bottom" timestamp="1593538836929">
       <screen x="0" y="0" width="1440" height="900" />
@@ -211,10 +207,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="618" height="314" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593538836929" />
-    <state x="443" y="89" key="SettingsEditor" timestamp="1594467432918">
+    <state x="441" y="89" key="SettingsEditor" timestamp="1594483604462">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="443" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594467432918" />
+    <state x="441" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594483604462" />
     <state x="708" y="210" key="run.anything.popup" timestamp="1594474193796">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
