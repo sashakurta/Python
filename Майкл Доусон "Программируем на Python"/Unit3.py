@@ -116,10 +116,38 @@ while True:
         count+=1
     else:
         print("Введите да, меньше , больше")
-print("Конец работы програмыа")
+print("Конец работы програмы")
 
+# доработка c Главы 6
 
-
+# игра в которой компьютер угадывает число которое загадал пользователь
+def ask_number(question,low,high):
+    """Просит ввести число из диапазона"""
+    response = None
+    while response not in range(low,high):
+        response = int(input(question))
+    return response
+count = 1
+metric = 25
+num = 50
+while True:
+    answer = ask_number("Вы загадали число",1,100)
+    print(num)
+    if answer == "да":
+        print("Компьютер угадал число которое вы загадали это число - ",
+              num,"за количество попиток", count)
+        break
+    elif answer == "меньше":
+        num-=metric
+        metric//=2
+        count+=1
+    elif answer == "больше":
+        num+=metric
+        metric//=2
+        count+=1
+    else:
+        print("Введите да, меньше , больше")
+print("Конец работы програмы")
 
 
 
