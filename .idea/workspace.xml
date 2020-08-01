@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac9bdd1-edbb-42c6-99c7-ef9089278541" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit8releaseproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit8tvclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +34,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.Unit8tvclass">
+  <component name="RunManager" selected="Python.Unit9">
     <configuration name="Unit7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BookTrainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="victorina" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Unit9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BookTrainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/victorina.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Unit9" />
         <item itemvalue="Python.Unit8tvclass" />
         <item itemvalue="Python.Unit8releaseproject" />
         <item itemvalue="Python.Unit8" />
         <item itemvalue="Python.Unit7" />
-        <item itemvalue="Python.victorina" />
       </list>
     </recent_temporary>
   </component>
@@ -177,25 +175,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="818" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1595858975450" />
-    <state width="674" height="393" key="GridCell.Tab.0.bottom" timestamp="1596046732935">
+    <state width="636" height="460" key="GridCell.Tab.0.bottom" timestamp="1596214251015">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="674" height="393" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596046732935" />
+    <state width="636" height="460" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596214251015" />
     <state width="1419" height="478" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593730405340" />
-    <state width="674" height="393" key="GridCell.Tab.0.center" timestamp="1596046732933">
+    <state width="636" height="460" key="GridCell.Tab.0.center" timestamp="1596214251014">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="674" height="393" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596046732933" />
+    <state width="636" height="460" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596214251014" />
     <state width="1419" height="478" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1593730405339" />
-    <state width="674" height="393" key="GridCell.Tab.0.left" timestamp="1596046732932">
+    <state width="636" height="460" key="GridCell.Tab.0.left" timestamp="1596214251014">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="674" height="393" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596046732932" />
+    <state width="636" height="460" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596214251014" />
     <state width="1419" height="478" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1593730405339" />
-    <state width="674" height="393" key="GridCell.Tab.0.right" timestamp="1596046732933">
+    <state width="636" height="460" key="GridCell.Tab.0.right" timestamp="1596214251015">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="674" height="393" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596046732933" />
+    <state width="636" height="460" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596214251015" />
     <state width="1419" height="478" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1593730405340" />
     <state width="760" height="631" key="GridCell.Tab.1.bottom" timestamp="1595949335354">
       <screen x="0" y="0" width="1440" height="900" />
