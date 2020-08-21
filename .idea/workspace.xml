@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ac9bdd1-edbb-42c6-99c7-ef9089278541" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/games.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/simlegame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/BJGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/ClickCount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/Unit10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/Uslessbuttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/build/regtxt/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/build/regtxt/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/build/regtxt/PKG-00.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/build/regtxt/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/build/regtxt/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/build/regtxt/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/build/regtxt/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/build/regtxt/warn-regtxt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/build/regtxt/xref-regtxt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/dist/regtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/longvity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/mad_storyteller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/movie_chooser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/movie_chooser2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/regtxt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/regtxt.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/War.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/cards.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/regtxt.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/zooUnit8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/купече.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BookTrainning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BookTrainning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/simlegame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/simlegame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +48,24 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1e2skAd24FfPtq7mY50Ha0VGXu8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Unit9">
-    <configuration name="Unit7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.mad_storyteller">
+    <configuration name="longvity" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BookTrainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/longvity.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unit8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mad_storyteller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BookTrainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/mad_storyteller.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unit8releaseproject" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="movie_chooser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BookTrainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit8releaseproject.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/movie_chooser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unit8tvclass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="movie_chooser2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BookTrainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit8tvclass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/movie_chooser2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +149,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unit9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="regtxt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BookTrainning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Майкл Доусон &quot;Программируем на Python&quot;/Unit10/regtxt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Unit9" />
-        <item itemvalue="Python.Unit8tvclass" />
-        <item itemvalue="Python.Unit8releaseproject" />
-        <item itemvalue="Python.Unit8" />
-        <item itemvalue="Python.Unit7" />
+        <item itemvalue="Python.mad_storyteller" />
+        <item itemvalue="Python.movie_chooser2" />
+        <item itemvalue="Python.movie_chooser" />
+        <item itemvalue="Python.regtxt" />
+        <item itemvalue="Python.longvity" />
       </list>
     </recent_temporary>
   </component>
@@ -167,35 +196,38 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="640" y="115" key="#Inspections" timestamp="1593536645952">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="640" y="115" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1593536645952" />
-    <state x="818" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595858975450">
+    <state x="818" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596292728323">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="818" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1595858975450" />
-    <state width="636" height="460" key="GridCell.Tab.0.bottom" timestamp="1596284347957">
+    <state x="818" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1596292728323" />
+    <state width="638" height="72" key="GridCell.Tab.0.bottom" timestamp="1598021565940">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="636" height="460" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596284347957" />
-    <state width="1419" height="478" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1593730405340" />
-    <state width="636" height="460" key="GridCell.Tab.0.center" timestamp="1596284347956">
+    <state width="638" height="72" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1598021565940" />
+    <state width="727" height="2" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1598009252627" />
+    <state width="638" height="72" key="GridCell.Tab.0.center" timestamp="1598021565939">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="636" height="460" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596284347956" />
-    <state width="1419" height="478" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1593730405339" />
-    <state width="636" height="460" key="GridCell.Tab.0.left" timestamp="1596284347955">
+    <state width="638" height="72" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1598021565939" />
+    <state width="727" height="2" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1598009252626" />
+    <state width="638" height="72" key="GridCell.Tab.0.left" timestamp="1598021565938">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="636" height="460" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596284347955" />
-    <state width="1419" height="478" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1593730405339" />
-    <state width="636" height="460" key="GridCell.Tab.0.right" timestamp="1596284347956">
+    <state width="638" height="72" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1598021565938" />
+    <state width="727" height="2" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1598009252626" />
+    <state width="638" height="72" key="GridCell.Tab.0.right" timestamp="1598021565940">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="636" height="460" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596284347956" />
-    <state width="1419" height="478" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1593730405340" />
+    <state width="638" height="72" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1598021565940" />
+    <state width="727" height="2" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1598009252627" />
     <state width="760" height="631" key="GridCell.Tab.1.bottom" timestamp="1595949335354">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -212,14 +244,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="760" height="631" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1595949335354" />
-    <state x="441" y="89" key="SettingsEditor" timestamp="1594483604462">
+    <state x="441" y="89" key="SettingsEditor" timestamp="1597597493759">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="441" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1594483604462" />
-    <state x="708" y="210" width="672" height="677" key="run.anything.popup" timestamp="1594574027578">
+    <state x="441" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1597597493759" />
+    <state x="708" y="210" width="672" height="677" key="run.anything.popup" timestamp="1597589961653">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="708" y="210" width="672" height="677" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1594574027578" />
+    <state x="708" y="210" width="672" height="677" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1597589961653" />
+    <state x="751" y="194" key="search.everywhere.popup" timestamp="1597083314934">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="751" y="194" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1597083314934" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
